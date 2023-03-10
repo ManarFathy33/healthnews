@@ -1,0 +1,4 @@
+#Thu Mar 09 22:01:12 EET 2023
+base.0=C\:\\Users\\DellG3\\Desktop\\Flutter Round1\\healthcare_news\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
